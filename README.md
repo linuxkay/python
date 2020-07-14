@@ -12,7 +12,7 @@ My python code shelf.
 
 ## Overview
 
-eboshi-ski.py and test-stmary.py is a ski resorts crawler using python.
+eboshi-ski.py, test-stmary.py and openclose-checker.py are ski resorts crawler using python.
 
 
 ## Requirements
