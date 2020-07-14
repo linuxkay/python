@@ -12,7 +12,8 @@ My python code shelf.
 
 ## Overview
 
-test-stmary.py is a ski resorts crawler using python.
+eboshi-ski.py and test-stmary.py is a ski resorts crawler using python.
+
 
 ## Requirements
 
