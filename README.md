@@ -14,7 +14,7 @@ My python code shelf.
 
 eboshi-ski.py, test-stmary.py and openclose-checker.py are ski resorts crawler using python.
 
-2.py is a UDP message sender. The goal was send message as fast as possible.
+send.py and 2.py are UDP message sender. The goal was send message as fast as possible.
 
 broker.py is a UDP message reciever.
 
