@@ -22,6 +22,8 @@ key-send.py is a command sender via ssh without typing ssh credential
 
 key-send.py.original is a base model for key-send.py
 
+tcprec.py is a TCP version of message receiver.
+
 ## Requirements
 
 ## Install
