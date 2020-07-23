@@ -1,5 +1,5 @@
 #!/usr/bin/env/python
-## objective to scrape table from a website and save it as csv file
+## objective is to scrape table from a website and save it as csv file
 ##reference http://qiita.com/kitsuyui/items/4906bb457af4d0e2d0a5
 # -*- coding: utf-8 -*-
 import pandas as pd
