@@ -26,7 +26,7 @@ key-send.py.original is a base model for key-send.py
 
 match.py is a command launcher based on keyword saved at word.txt
 
-renkenmatch.py and tcprec.py are TCP version of message receiver.
+rec.py, renkenmatch.py and tcprec.py are TCP version of message receiver.
 
 ## Requirements
 
